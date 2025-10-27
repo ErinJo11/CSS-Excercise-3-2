@@ -1,5 +1,18 @@
-.header{
-    background-color: peachpuff;
-    max-width: 600px;
-    margin: auto;
+.header-wrapper{
+ width: 100%;
+ background-color: aqua;
+ 
+}
+
+.wrapper-main{
+    background-color: bisque;
+}
+
+.wrapper{
+    background-color: brown;
+}
+
+.content{
+max-width: 600px;
+margin: auto;
 }
